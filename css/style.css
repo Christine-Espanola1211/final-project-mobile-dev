@@ -1,0 +1,141 @@
+html,body {
+      
+        margin:2px;
+        background-color: #f0e68c;
+
+          }
+
+body{
+	overflow: scroll;}
+a:link, a:visited, a:hover, a:active {text-decoration: none;
+color: white;}
+
+
+
+h1,h2,h3,h4,h5,h6 {font-family:verdana;
+text-align: center; }
+ 
+ p, ol, li,ul 
+ {
+ 	font-family: verdana; 
+ 	font-size: 60%;  	
+
+ }
+ 
+#home{
+	
+	background-color: #4169e1;
+	color: white;
+	cursor: pointer;
+	text-shadow: 0px 0px 10px #000000;
+	border-radius: 35%;
+
+}
+ 
+ 
+
+#vision{
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+
+	}
+
+#mission{
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+	}
+
+#core_val{
+
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+}
+
+
+#exam{
+	
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+	}
+
+
+
+#admission{
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+	}
+
+#program{
+
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+}
+
+
+
+
+#grant{
+	background-color:#4169e1;
+	color: white;
+	text-align:center;	
+	cursor: pointer;
+	border-radius: 35%;
+	}
+
+#payment{
+
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+
+}
+
+
+
+
+
+
+#contact  {
+	background-color:#4169e1;
+	color: white;
+	cursor: pointer;
+	border-radius: 35%;
+}
+
+#exit  {
+	position: ;
+	color: white;
+	cursor: pointer;
+
+}
+
+
+
+
+#footer{
+	position: center;
+	color: black;
+}
+
+#link2link{
+	position:absolute;
+	top:33%;
+	
+	width:93%;
+	height:50%;
+	overflow: scroll;
+}
+
